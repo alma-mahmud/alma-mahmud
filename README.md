@@ -19,7 +19,7 @@
 ---
 
 ### 💫 About Me:
-I’m a **Frontend Developer** skilled in **React** and modern **JavaScript**, focused on building clean and responsive user interfaces. I learn best by building real projects and improving through feedback. I enjoy collaborating with others to solve real-world problems through frontend development.
+I build websites with **React** and **JavaScript**. Still learning every day by making stuff, breaking it, then figuring out why it broke. I think the best code comes from working with other people and actually solving problems that matter, not just following tutorials.
 
 ---
 
