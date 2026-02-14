@@ -36,19 +36,6 @@ I am a passionate **Frontend Developer** who loves turning complex problems into
 
 ---
 
-### 📊 Real-Time GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alma-mahmud&show_icons=true&theme=radical&rank_icon=github&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alma-mahmud&theme=radical&border_radius=10" width="48%" />
-</p>
-
-#### 📅 My Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alma-mahmud&theme=react-dark&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
 ### 📂 Featured Projects
 | Project Name | Tech Stack | Link |
 | :--- | :--- | :--- |
