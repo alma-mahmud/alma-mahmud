@@ -7,7 +7,7 @@
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=alma-mahmud&label=PROFILE%20VIEWS&color=00b4d8&style=for-the-badge&logo=github" alt="Views" />
-<img src="https://img.shields.io/github/followers/alma-mahmud?label=Followers&style=for-the-badge&color=00b4d8" alt="Followers" />
+<img src="https://img.shields.io/github/followers/almahmud-dev?label=Followers&style=for-the-badge&color=00b4d8" alt="Followers" />
 </p>
 
 </div>
