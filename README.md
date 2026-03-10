@@ -60,7 +60,7 @@ With a strong focus on **performance, clean architecture, and user experience**,
 |----------|-------------|------|
 | **Portfolio Pro** | Animated modern portfolio | [Live Demo](https://almahmudportfolio.vercel.app/) |
 | **E-Commerce UI** | Scalable e-commerce frontend | [Live Demo](https://first-ecommerce-websites.vercel.app/) |
-| **Task Master** | Clean productivity dashboard | [Live Demo](https://agency-landing-react.vercel.app/) |
+| **Task Master** | Clean productivity dashboard | [Live Demo](https://bazar-dor-taupe.vercel.app/) |
 
 ---
 
